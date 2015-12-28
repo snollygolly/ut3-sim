@@ -1,0 +1,19 @@
+{
+  "name": "ut3-sim",
+  "version": "1.0.0",
+  "description": "A simulation/testing app for Ultimate Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snollygolly/ut3-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snollygolly/ut3-sim/issues"
+  },
+  "homepage": "https://github.com/snollygolly/ut3-sim#readme"
+}
